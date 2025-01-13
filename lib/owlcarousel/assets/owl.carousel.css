@@ -39,6 +39,7 @@
     -moz-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0); }
   .owl-carousel .owl-item {
+    height: 300px;
     position: relative;
     min-height: 1px;
     float: left;
@@ -47,6 +48,7 @@
     -webkit-touch-callout: none; }
   .owl-carousel .owl-item img {
     display: block;
+    object-fit: cover;
     width: 100%; }
   .owl-carousel .owl-nav.disabled,
   .owl-carousel .owl-dots.disabled {
