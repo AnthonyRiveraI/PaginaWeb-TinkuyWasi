@@ -1,7 +1,7 @@
 /******* Bootstrap Theming ********/
 
-$primary: #FFC600;
-$secondary: #23A036;
+$primary: #00dfe9;
+$secondary: #6300bf;
 $light: #F5F5F5;
 $dark: #0a1026;
 
@@ -285,22 +285,22 @@ h6,
 }
 
 .bg-about {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/about.jpg), no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/about-1.png), no-repeat center center;
     background-size: cover;
 }
 
 .bg-service {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/carousel-1.jpg), no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/carrusel-1.png), no-repeat center center;
     background-size: cover;
 }
 
 .bg-portfolio {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/carousel-2.jpg), no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/carrusel-2.png), no-repeat center center;
     background-size: cover;
 }
 
 .bg-testimonial {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/carousel-3.jpg), no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/carrusel-3.png), no-repeat center center;
     background-size: cover;
 }
 
